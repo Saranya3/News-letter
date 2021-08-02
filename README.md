@@ -8,9 +8,9 @@
 
 **Sign Up Page**
 
-[!alt text] (https://github.com/Saranya3/News-letter/blob/master/SignUp.png)
+![alt text] (https://github.com/Saranya3/News-letter/blob/master/SignUp.png)
 
 
 **Success Page**
 
-[!alt text] (https://github.com/Saranya3/News-letter/blob/master/Success.png)
+![alt text] (https://github.com/Saranya3/News-letter/blob/master/Success.png)
